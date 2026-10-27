@@ -12,7 +12,7 @@ This repository contains one assessment instrument for the **services-delivery**
 |------|-------|
 | **Domain** | `services-delivery` |
 | **Dimensions** | 5 |
-| **Total questions** | 18 |
+| **Total questions** | 19 |
 | **Typical duration** | ~70 minutes |
 | **Facilitator required** | No |
 | **Maturity target** | `dea:maturity-services-delivery` |
