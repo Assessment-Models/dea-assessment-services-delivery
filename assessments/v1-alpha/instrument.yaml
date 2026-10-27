@@ -1,7 +1,7 @@
 id:                  dea:assessment-services-delivery
 name:                Services Delivery Assessment
 domain:              services-delivery
-version:             "1.0.0-alpha"
+version:             "1.1.0-alpha"
 metamodel_version:   "^0.1.0"
 status:              draft
 description: >

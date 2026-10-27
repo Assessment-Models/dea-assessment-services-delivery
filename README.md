@@ -17,7 +17,7 @@ This repository contains one assessment instrument for the **services-delivery**
 | **Facilitator required** | No |
 | **Maturity target** | `dea:maturity-services-delivery` |
 | **Owner** | Head of Delivery / VP Engineering |
-| **Version** | 1.0.0-alpha |
+| **Version** | 1.1.0-alpha |
 
 ---
 
