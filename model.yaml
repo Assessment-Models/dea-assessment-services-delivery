@@ -10,7 +10,7 @@ description: >-
   EA assessment instrument for the services-delivery domain:
   time-to-market, quality, customer outcomes, flow efficiency, team
   health. Scores against the dea:maturity-services-delivery model.
-version: 1.0.0-alpha
+version: 1.1.0-alpha
 conformance:
   contract:
     id: opendea-assessment-metamodel
